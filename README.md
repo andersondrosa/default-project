@@ -1,4 +1,4 @@
-# Jaster Model
+# Default Project
 
 ## How To Install
 
