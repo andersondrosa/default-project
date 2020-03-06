@@ -1,4 +1,3 @@
-import diff from "./diff";
-import merge from "./merge";
-
-export { diff, merge };
+export default function() {
+  return "OK";
+}
