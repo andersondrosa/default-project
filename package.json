@@ -1,7 +1,7 @@
 {
-  "name": "default-project",
+  "name": "jaster-merge",
   "version": "1.0.1",
-  "description": "Default project",
+  "description": "Merge and diff functions",
   "main": "dist/index.js",
   "scripts": {
     "clean": "rimraf dist",
