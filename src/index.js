@@ -1,6 +1,4 @@
-//
-const project = {
-  test: "OK"
-};
+import diff from "./diff";
+import merge from "./merge";
 
-export default project;
+export { diff, merge };

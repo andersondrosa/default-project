@@ -2,6 +2,23 @@
 
 exports[`Should be ok 1`] = `
 Object {
-  "test": "OK",
+  "bar": "bar",
+  "foo": "FOO",
+}
+`;
+
+exports[`Should be ok 2`] = `
+Object {
+  "bar": "bar",
+  "foo": "foo",
+}
+`;
+
+exports[`Should be ok 3`] = `
+Object {
+  "__rm": Array [
+    "bar",
+  ],
+  "foo": "FOO",
 }
 `;
